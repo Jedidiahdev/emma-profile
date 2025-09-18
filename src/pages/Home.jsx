@@ -15,7 +15,7 @@ const Home = () => (
     </div>
     <div className="image-container home-image-shift">
       <a href="/emma.jpg" target="_blank" rel="noopener noreferrer">
-        <img src="Emma's Portfolio\\emma.jpg" alt="Architect Portrait" className="profile-img" />
+        <img src="/emma.jpg" alt="Architect Portrait" className="profile-img" />
       </a>
     </div>
   </div>
