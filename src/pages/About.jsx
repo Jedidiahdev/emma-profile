@@ -19,6 +19,7 @@ const About = () => (
       </div>
       <div className="about-image about-image-shift">
   <img src="/public/emma.jpg" alt="Emma C. Eziechila" className="profile-img-right" />
+    <img src="/Images/emma.jpg" alt="Emma C. Eziechila" className="profile-img-right" />
       </div>
     </section>
   </div>
