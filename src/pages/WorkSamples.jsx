@@ -63,6 +63,43 @@ const projects = [
     ],
   thumb: "/Images/1000170101.jpg",
   },
+  {
+    title: '5 Bedroom Duplex',
+    desc: 'A spacious and well designed 5-bedroom duplex feauturing large living areas, a modern kitchen',
+    images: [
+  "/Images/5bed.jpg",
+  "/Images/5bed1.jpg",
+  "/Images/5bed2.jpg",
+  "/Images/5bed3.jpg",
+    ],
+  thumb: "/Images/5bed.jpg",
+  },
+  {
+    title: '5 Bedroom Apartment',
+    desc: 'Luxury 5-bedroom apartment with modern amenities and spacious design.',
+    images: [
+  "/Images/5bedApart.jpg",
+  "/Images/5bedapart1.jpg",
+  "/Images/5bedapart2.jpg",
+    ],
+  thumb: "/Images/5bedApart.jpg",
+  },
+   {
+    title: 'Pjosh Diabetic Center',
+    desc: 'A state-of-the-art diabetic center designed to provide comprehensive care and support for patients.',
+    images: [
+  "/Images/pjosh2.jpg",
+  "/Images/pjosh3.jpg",
+  "/Images/pjosh4.jpg",
+  "/Images/pjosh5.jpg",
+  "/Images/pjosh7.jpg",
+  "/Images/pjosh8.jpg",
+  "/Images/pjosh1.jpg",
+  "/Images/pjosh6.jpg",
+  "/Images/pjoshplan1.jpg"
+    ],
+  thumb: "/Images/pjosh2.jpg",
+  },
 ];
 
 const WorkSamples = () => {
