@@ -25,8 +25,8 @@ const projects = [
   thumb: "/Images/Four Bedroom.jpg",
   },
   {
-    title: 'Commercial Hub',
-    desc: 'Conceptualized and managed the construction of a commercial hub that combines functionality with striking design.',
+    title: 'A 5 bedroom duplex',
+    desc: 'A state of the art 5 Bedroom duplex, spacious, morden design, parking space',
     images: [
   "/Images/FIve Bedroom.jpg",
   "/Images/Five Bedroom (3).jpg",
@@ -54,8 +54,8 @@ const projects = [
   thumb: "/Images/1000122258.jpg",
   },
   {
-    title: 'Modern Office Block',
-    desc: 'State-of-the-art office block with open-plan workspaces and eco-friendly features.',
+    title: 'Modern Penthouse',
+    desc: 'State-of-the-art penthouse with open-plan workspaces and eco-friendly features.',
     images: [
   "/Images/1000170101.jpg",
   "/Images/1000170103.jpg",
@@ -65,7 +65,7 @@ const projects = [
   },
   {
     title: '5 Bedroom Duplex',
-    desc: 'A spacious and well designed 5-bedroom duplex feauturing large living areas, a modern kitchen',
+    desc: 'A spacious and well designed 5-bedroom duplex feauturing large living areas, a modern kitchen, well fitted bathrooms, ample parking and quality finishes.',
     images: [
   "/Images/5bed.jpg",
   "/Images/5bed1.jpg",
@@ -75,8 +75,8 @@ const projects = [
   thumb: "/Images/5bed.jpg",
   },
   {
-    title: '5 Bedroom Apartment',
-    desc: 'Luxury 5-bedroom apartment with modern amenities and spacious design.',
+    title: '5 Bedroom Duplex Apartment',
+    desc: 'Luxury 5-bedroom duplex apartment with modern amenities and spacious design.',
     images: [
   "/Images/5bedApart.jpg",
   "/Images/5bedapart1.jpg",
@@ -98,7 +98,7 @@ const projects = [
   "/Images/pjosh6.jpg",
   "/Images/pjoshplan1.jpg"
     ],
-  thumb: "/Images/pjosh2.jpg",
+  thumb: "/Images/pjosh1.jpg",
   },
 ];
 

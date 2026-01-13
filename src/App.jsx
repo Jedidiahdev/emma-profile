@@ -92,7 +92,7 @@ function App() {
       <footer>
         <div>
           &copy; {new Date().getFullYear()} Emma C.E. | Portfolio. All rights reserved.<br/>
-          Designed &amp; developed by Cybox Tech
+          Designed &amp; developed by Cybox
         </div>
       </footer>
     </Router>
