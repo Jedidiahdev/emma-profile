@@ -113,7 +113,7 @@ const WorkSamples = () => {
 
   return (
   <div className="container work-samples-page">
-  <h2 className="section-title" style={{textAlign: 'center', width: '100%'}}>Featured <span>Projects</span></h2>
+  <h2 className="section-title">Featured <span className="logo-accent">Projects</span></h2>
       <div className="projects">
         {projects.map((proj, i) => (
           <div className="project" key={proj.title}>
